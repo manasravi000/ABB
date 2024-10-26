@@ -13,10 +13,23 @@ To run the project, please follow these steps:
 
    ```bash
    npm install
+   
 3. Install the dependencies for the backend:
+   
    ```bash
    npm install
 
-4.Start the Node.js server in the backend folder: "npm start"
-5.In a separate terminal, start the Vite development server from the main project level folder : "npm run dev"
+4.Start the Node.js server in the backend folder:
+
+  ```bash
+  npm start
+```
+
+5.In a separate terminal, start the Vite development server from the main project level:
+
+  ```bash
+  npm run dev
+
+
+
    
